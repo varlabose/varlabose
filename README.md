@@ -1,4 +1,4 @@
-# InfiniteAutoScroolViewPager
+# varlabose
 
 [![Version][version-image]][version-url]
 
