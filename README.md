@@ -1,4 +1,4 @@
-# Do Not Merge WIP for GitHub
+# Chosen
 
 [![Version][version-image]][version-url]
 
