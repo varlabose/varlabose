@@ -1,4 +1,4 @@
-# u2do
+# InfiniteAutoScroolViewPager
 
 [![Version][version-image]][version-url]
 
