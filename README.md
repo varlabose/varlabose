@@ -1,4 +1,4 @@
-# Chosen
+# Terragrunt
 
 [![Version][version-image]][version-url]
 
