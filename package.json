@@ -24,7 +24,7 @@
     "grunt-open": "~0.2.4",
     "grunt-svgmin": "^7.0.0",
     "load-grunt-tasks": "^5.1.0",
-    "serve-static": "^1.15.0",
+    "serve-static": "^2.2.1",
     "time-grunt": "^2.0.0"
   },
   "engines": {
